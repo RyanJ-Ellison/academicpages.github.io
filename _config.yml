@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Ryan Ellison's Website"
 title_separator          : "-"
-name                     : &name "RYan Ellison"
+name                     : &name "Ryan Ellison"
 description              : &description "Ryan Ellison's Website"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
