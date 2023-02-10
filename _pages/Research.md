@@ -1,4 +1,5 @@
 ---
+permalink: /Research/
 title: Research
 layout: home
 nav_order: 2
