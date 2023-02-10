@@ -1,7 +1,7 @@
 ---
 title: Exracurricular
-layout: home
-nav_order: 5
+permalink: /Extracurricular/
+author_profile: true
 ---
 
 
