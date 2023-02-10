@@ -1,7 +1,7 @@
 ---
 title: Outreach
-layout: home
-nav_order: 4
+permalink: /Outreach/
+author_profile: true
 ---
 
 
